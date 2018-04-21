@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+}
+
+.links-container {
+  left: 0;
+  width: 15%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background: #333;
+}
+
+.links-container a, h2 {
+  text-decoration: none;
+  color: #FEFEFE;
+}
